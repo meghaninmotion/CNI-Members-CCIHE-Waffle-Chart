@@ -1,7 +1,7 @@
 # CNI-Members-CCIHE-Waffle-Chart
 A prototype mapping of CNI members by Carnegie Classification of Institutions of Higher Education for exploration. 
 
-This waffle chart, or grid visualization, represents the membership of CNI and a breakdown of those members by their Carnegie Classification. 
+This waffle chart, or grid visualization, represents the membership of CNI and a breakdown of those members by their Carnegie Classification. The grid totals 100% and compresses total membership to a percentage of membership based on classification.
 
 More details on the organizations can be found at https://www.cni.org/about-cni/membership/members. 
 
